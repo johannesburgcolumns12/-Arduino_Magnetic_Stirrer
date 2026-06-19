@@ -13,7 +13,7 @@ This project contains the source code and hardware documentation for a custom-bu
 * I2C OLED Display (128x64 or 128x32)
 * 12V DC Motor with Magnetic Stir Bar
 * Logic-Level N-Channel MOSFET (or L298N Motor Driver)
-* Hall Effect Sensor or Optical Interrupter (for RPM counting)
+* IR Sensor or Optical Interrupter (for RPM counting)
 * 10kΩ Potentiometer
 
 ## Usage
