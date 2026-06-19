@@ -17,6 +17,6 @@ This project contains the source code and hardware documentation for a custom-bu
 * 10kΩ Potentiometer
 
 ## Usage
-1. Flash `magnetic_stirrer.ino` to the Arduino Uno.
+1. Flash `magstirrwithRPMreader.ino` to the Arduino Uno.
 2. Refer to `wiring_and_diagnostics.md` for pinout connections and hardware calibration.
 3. Turn the potentiometer to adjust the stirring speed; the OLED will update the RPM reading every second.
