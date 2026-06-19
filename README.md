@@ -15,6 +15,7 @@ This project contains the source code and hardware documentation for a custom-bu
 * Logic-Level N-Channel MOSFET (or L298N Motor Driver)
 * IR Sensor or Optical Interrupter (for RPM counting)
 * 10kΩ Potentiometer
+* Switch (4-legged tactile switch)
 
 ## Usage
 1. Flash `magstirrwithRPMreader.ino` to the Arduino Uno.
